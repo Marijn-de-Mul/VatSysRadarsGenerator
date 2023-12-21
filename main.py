@@ -116,9 +116,9 @@ with open('Input/PSR_Stations.txt', 'r') as f:
         lon_dd = dms_to_dd(lon_dms)
         elevation = get_elevation_data(lat_dd, lon_dd)
 
-        radar_psr = create_radar_element(location, elevation, coverage, lat_dd, lon_dd)
-        radar_psr.set('Type', 'PRI')
-        root.append(radar_psr)
+        radar_pri = create_radar_element(location, elevation, coverage, lat_dd, lon_dd)
+        radar_pri.set('Type', 'PRI')
+        root.append(radar_pri)
 
 with open('Input/SMR_Stations.txt', 'r') as f:
     for line in f:

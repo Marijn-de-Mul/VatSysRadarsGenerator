@@ -1,0 +1,1391 @@
+<?xml version="1.0" ?>
+<Radars>
+  <Radar Name="Alor" Type="ADSB" Elevation="33" MaxRange="200">
+    <Lat>-08.135083</Lat>
+    <Long>+124.594278</Long>
+  </Radar>
+  <Radar Name="Ambon" Type="ADSB" Elevation="1627" MaxRange="200">
+    <Lat>-03.729750</Lat>
+    <Long>+128.163139</Long>
+  </Radar>
+  <Radar Name="Balikpapan" Type="ADSB" Elevation="33" MaxRange="200">
+    <Lat>-01.257306</Lat>
+    <Long>+116.913917</Long>
+  </Radar>
+  <Radar Name="Banda Aceh" Type="ADSB" Elevation="1355" MaxRange="200">
+    <Lat>+05.541528</Lat>
+    <Long>+095.500722</Long>
+  </Radar>
+  <Radar Name="Banjarmasin" Type="ADSB" Elevation="43" MaxRange="200">
+    <Lat>-03.442000</Lat>
+    <Long>+114.746000</Long>
+  </Radar>
+  <Radar Name="Bengkulu" Type="ADSB" Elevation="69" MaxRange="200">
+    <Lat>-03.796111</Lat>
+    <Long>+102.265556</Long>
+  </Radar>
+  <Radar Name="Biak" Type="ADSB" Elevation="39" MaxRange="200">
+    <Lat>-01.187917</Lat>
+    <Long>+136.113000</Long>
+  </Radar>
+  <Radar Name="Cilacap" Type="ADSB" Elevation="85" MaxRange="200">
+    <Lat>-07.642222</Lat>
+    <Long>+109.035472</Long>
+  </Radar>
+  <Radar Name="Galela" Type="ADSB" Elevation="135" MaxRange="200">
+    <Lat>+01.837583</Lat>
+    <Long>+127.787861</Long>
+  </Radar>
+  <Radar Name="Jambi" Type="ADSB" Elevation="98" MaxRange="200">
+    <Lat>-01.635306</Lat>
+    <Long>+103.646806</Long>
+  </Radar>
+  <Radar Name="Kintamani" Type="ADSB" Elevation="5591" MaxRange="200">
+    <Lat>-08.206722</Lat>
+    <Long>+115.330111</Long>
+  </Radar>
+  <Radar Name="Kendari" Type="ADSB" Elevation="325" MaxRange="200">
+    <Lat>-04.045611</Lat>
+    <Long>+122.414806</Long>
+  </Radar>
+  <Radar Name="Kupang" Type="ADSB" Elevation="335" MaxRange="200">
+    <Lat>-10.167389</Lat>
+    <Long>+123.670639</Long>
+  </Radar>
+  <Radar Name="Malino" Type="ADSB" Elevation="4780" MaxRange="200">
+    <Lat>-05.244472</Lat>
+    <Long>+119.899194</Long>
+  </Radar>
+  <Radar Name="Matak" Type="ADSB" Elevation="36" MaxRange="200">
+    <Lat>+03.350639</Lat>
+    <Long>+106.259778</Long>
+  </Radar>
+  <Radar Name="Manado" Type="ADSB" Elevation="3494" MaxRange="200">
+    <Lat>+01.321639</Lat>
+    <Long>+124.956278</Long>
+  </Radar>
+  <Radar Name="Medan" Type="ADSB" Elevation="20" MaxRange="200">
+    <Lat>+03.641694</Lat>
+    <Long>+098.885306</Long>
+  </Radar>
+  <Radar Name="Merauke" Type="ADSB" Elevation="13" MaxRange="200">
+    <Lat>-08.513111</Lat>
+    <Long>+140.410861</Long>
+  </Radar>
+  <Radar Name="Natuna" Type="ADSB" Elevation="243" MaxRange="200">
+    <Lat>+03.963528</Lat>
+    <Long>+108.399778</Long>
+  </Radar>
+  <Radar Name="Palu" Type="ADSB" Elevation="627" MaxRange="200">
+    <Lat>-00.680389</Lat>
+    <Long>+119.729778</Long>
+  </Radar>
+  <Radar Name="Palembang" Type="ADSB" Elevation="23" MaxRange="200">
+    <Lat>-02.892139</Lat>
+    <Long>+104.701028</Long>
+  </Radar>
+  <Radar Name="Pangkalan bun" Type="ADSB" Elevation="85" MaxRange="200">
+    <Lat>-02.704750</Lat>
+    <Long>+111.669083</Long>
+  </Radar>
+  <Radar Name="Pangkal pinang" Type="ADSB" Elevation="95" MaxRange="200">
+    <Lat>-02.161111</Lat>
+    <Long>+106.141389</Long>
+  </Radar>
+  <Radar Name="Pekanbaru" Type="ADSB" Elevation="131" MaxRange="200">
+    <Lat>+00.460833</Lat>
+    <Long>+101.444389</Long>
+  </Radar>
+  <Radar Name="Pontianak" Type="ADSB" Elevation="7" MaxRange="200">
+    <Lat>-00.145611</Lat>
+    <Long>+109.401889</Long>
+  </Radar>
+  <Radar Name="Saumlaki" Type="ADSB" Elevation="200" MaxRange="200">
+    <Lat>-07.989306</Lat>
+    <Long>+131.302417</Long>
+  </Radar>
+  <Radar Name="Semarang" Type="ADSB" Elevation="381" MaxRange="200">
+    <Lat>-07.021444</Lat>
+    <Long>+110.429167</Long>
+  </Radar>
+  <Radar Name="Soekarno Hatta" Type="ADSB" Elevation="30" MaxRange="200">
+    <Lat>-06.125500</Lat>
+    <Long>+106.659083</Long>
+  </Radar>
+  <Radar Name="Sorong" Type="ADSB" Elevation="13" MaxRange="200">
+    <Lat>-00.891139</Lat>
+    <Long>+131.286917</Long>
+  </Radar>
+  <Radar Name="Surabaya" Type="ADSB" Elevation="10" MaxRange="200">
+    <Lat>-07.374444</Lat>
+    <Long>+112.800472</Long>
+  </Radar>
+  <Radar Name="Tanjung Pandan" Type="ADSB" Elevation="174" MaxRange="200">
+    <Lat>-02.753333</Lat>
+    <Long>+107.753333</Long>
+  </Radar>
+  <Radar Name="Tarakan" Type="ADSB" Elevation="13" MaxRange="200">
+    <Lat>+03.326389</Lat>
+    <Long>+117.569722</Long>
+  </Radar>
+  <Radar Name="Timika" Type="ADSB" Elevation="98" MaxRange="200">
+    <Lat>-04.532889</Lat>
+    <Long>+136.885944</Long>
+  </Radar>
+  <Radar Name="Waingapu" Type="ADSB" Elevation="1837" MaxRange="200">
+    <Lat>-09.668417</Lat>
+    <Long>+120.176944</Long>
+  </Radar>
+  <Radar Name="Ambon" Type="SSR_ModeC" Elevation="1627" MaxRange="200">
+    <Lat>-03.729500</Lat>
+    <Long>+128.163167</Long>
+  </Radar>
+  <Radar Name="Balikpapan" Type="SSR_ModeC" Elevation="33" MaxRange="200">
+    <Lat>-01.257361</Lat>
+    <Long>+116.913944</Long>
+  </Radar>
+  <Radar Name="Banda Aceh" Type="SSR_ModeC" Elevation="955" MaxRange="200">
+    <Lat>+05.541806</Lat>
+    <Long>+095.507028</Long>
+  </Radar>
+  <Radar Name="Banjarmasin" Type="SSR_ModeC" Elevation="43" MaxRange="200">
+    <Lat>-03.442000</Lat>
+    <Long>+114.746000</Long>
+  </Radar>
+  <Radar Name="Biak" Type="SSR_ModeC" Elevation="39" MaxRange="200">
+    <Lat>-01.187778</Lat>
+    <Long>+136.111944</Long>
+  </Radar>
+  <Radar Name="Cengkareng" Type="SSR_ModeC" Elevation="43" MaxRange="200">
+    <Lat>-06.153694</Lat>
+    <Long>+106.644917</Long>
+  </Radar>
+  <Radar Name="Denpasar" Type="SSR_ModeC" Elevation="13" MaxRange="200">
+    <Lat>-08.750556</Lat>
+    <Long>+115.172222</Long>
+  </Radar>
+  <Radar Name="Kendari" Type="SSR_ModeC" Elevation="325" MaxRange="200">
+    <Lat>-04.045556</Lat>
+    <Long>+122.414444</Long>
+  </Radar>
+  <Radar Name="Kualanamu" Type="SSR_ModeC" Elevation="23" MaxRange="200">
+    <Lat>+03.624778</Lat>
+    <Long>+098.880944</Long>
+  </Radar>
+  <Radar Name="Kupang" Type="SSR_ModeC" Elevation="338" MaxRange="200">
+    <Lat>-10.165278</Lat>
+    <Long>+123.671111</Long>
+  </Radar>
+  <Radar Name="Makassar" Type="SSR_ModeC" Elevation="30" MaxRange="200">
+    <Lat>-05.065806</Lat>
+    <Long>+119.554333</Long>
+  </Radar>
+  <Radar Name="Manado" Type="SSR_ModeC" Elevation="3497" MaxRange="200">
+    <Lat>+01.321861</Lat>
+    <Long>+124.956250</Long>
+  </Radar>
+  <Radar Name="Merauke" Type="SSR_ModeC" Elevation="13" MaxRange="200">
+    <Lat>-08.513194</Lat>
+    <Long>+140.410917</Long>
+  </Radar>
+  <Radar Name="Natuna" Type="SSR_ModeC" Elevation="243" MaxRange="200">
+    <Lat>+03.963583</Lat>
+    <Long>+108.399806</Long>
+  </Radar>
+  <Radar Name="Padang" Type="SSR_ModeC" Elevation="13" MaxRange="200">
+    <Lat>-00.792500</Lat>
+    <Long>+100.288611</Long>
+  </Radar>
+  <Radar Name="Palu" Type="SSR_ModeC" Elevation="627" MaxRange="200">
+    <Lat>-00.680361</Lat>
+    <Long>+119.729750</Long>
+  </Radar>
+  <Radar Name="Pangkalan Bun" Type="SSR_ModeC" Elevation="95" MaxRange="200">
+    <Lat>-02.704278</Lat>
+    <Long>+111.666500</Long>
+  </Radar>
+  <Radar Name="Palembang" Type="SSR_ModeC" Elevation="46" MaxRange="200">
+    <Lat>-02.896000</Lat>
+    <Long>+104.707000</Long>
+  </Radar>
+  <Radar Name="Pekanbaru" Type="SSR_ModeC" Elevation="125" MaxRange="200">
+    <Lat>+00.458889</Lat>
+    <Long>+101.448139</Long>
+  </Radar>
+  <Radar Name="Pontianak" Type="SSR_ModeC" Elevation="10" MaxRange="200">
+    <Lat>-00.131389</Lat>
+    <Long>+109.409167</Long>
+  </Radar>
+  <Radar Name="Semarang" Type="SSR_ModeC" Elevation="381" MaxRange="200">
+    <Lat>-07.021389</Lat>
+    <Long>+110.429194</Long>
+  </Radar>
+  <Radar Name="Sentani" Type="SSR_ModeC" Elevation="351" MaxRange="200">
+    <Lat>-02.598472</Lat>
+    <Long>+140.528083</Long>
+  </Radar>
+  <Radar Name="Sorong" Type="SSR_ModeC" Elevation="16" MaxRange="200">
+    <Lat>-00.889722</Lat>
+    <Long>+131.288611</Long>
+  </Radar>
+  <Radar Name="Surabaya" Type="SSR_ModeC" Elevation="10" MaxRange="200">
+    <Lat>-07.374306</Lat>
+    <Long>+112.800528</Long>
+  </Radar>
+  <Radar Name="Tanjung Pinang" Type="SSR_ModeC" Elevation="49" MaxRange="200">
+    <Lat>+00.923583</Lat>
+    <Long>+104.530361</Long>
+  </Radar>
+  <Radar Name="Tarakan" Type="SSR_ModeC" Elevation="13" MaxRange="200">
+    <Lat>+03.323611</Lat>
+    <Long>+117.570000</Long>
+  </Radar>
+  <Radar Name="Timika" Type="SSR_ModeC" Elevation="95" MaxRange="200">
+    <Lat>-04.533972</Lat>
+    <Long>+136.888361</Long>
+  </Radar>
+  <Radar Name="Waingapu" Type="SSR_ModeC" Elevation="1818" MaxRange="200">
+    <Lat>-09.668056</Lat>
+    <Long>+120.176667</Long>
+  </Radar>
+  <Radar Name="Yogyakarta" Type="SSR_ModeC" Elevation="397" MaxRange="200">
+    <Lat>-07.785278</Lat>
+    <Long>+110.442500</Long>
+  </Radar>
+  <Radar Name="Cengkareng" Type="PRI" Elevation="43" MaxRange="80">
+    <Lat>-06.153694</Lat>
+    <Long>+106.644917</Long>
+  </Radar>
+  <Radar Name="Sultan hasanuddin" Type="SMR" Elevation="43" MaxRange="200">
+    <Lat>-05.060833</Lat>
+    <Long>+119.554444</Long>
+  </Radar>
+  <Radar Name="Waghete baru" Type="SMR" Elevation="5719" MaxRange="200">
+    <Lat>-04.067500</Lat>
+    <Long>+136.273611</Long>
+  </Radar>
+  <Radar Name="Frans kaisiepo" Type="SMR" Elevation="39" MaxRange="200">
+    <Lat>-01.191944</Lat>
+    <Long>+136.110000</Long>
+  </Radar>
+  <Radar Name="Moanamani" Type="SMR" Elevation="5105" MaxRange="200">
+    <Lat>-04.008889</Lat>
+    <Long>+136.036944</Long>
+  </Radar>
+  <Radar Name="Numfor" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-00.936389</Lat>
+    <Long>+134.866389</Long>
+  </Radar>
+  <Radar Name="Nabire" Type="SMR" Elevation="33" MaxRange="200">
+    <Lat>-03.368056</Lat>
+    <Long>+135.497222</Long>
+  </Radar>
+  <Radar Name="Stevanus rumbewas" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>-01.830000</Lat>
+    <Long>+136.069444</Long>
+  </Radar>
+  <Radar Name="Sinak" Type="SMR" Elevation="7323" MaxRange="200">
+    <Lat>-03.821944</Lat>
+    <Long>+137.838056</Long>
+  </Radar>
+  <Radar Name="Sultan muhammad sala" Type="SMR" Elevation="3" MaxRange="200">
+    <Lat>-08.540556</Lat>
+    <Long>+118.690278</Long>
+  </Radar>
+  <Radar Name="I gusti ngurah rai" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>-08.747500</Lat>
+    <Long>+115.169167</Long>
+  </Radar>
+  <Radar Name="Letkol wisnu" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>-08.140556</Lat>
+    <Long>+114.617500</Long>
+  </Radar>
+  <Radar Name="Zainuddin abdul madj" Type="SMR" Elevation="302" MaxRange="200">
+    <Lat>-08.757222</Lat>
+    <Long>+116.276667</Long>
+  </Radar>
+  <Radar Name="Sultan muhammad kaha" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>-08.488611</Lat>
+    <Long>+117.414167</Long>
+  </Radar>
+  <Radar Name="Banyuwangi" Type="SMR" Elevation="82" MaxRange="200">
+    <Lat>-08.310556</Lat>
+    <Long>+114.340278</Long>
+  </Radar>
+  <Radar Name="Marimoi" Type="SMR" Elevation="85" MaxRange="200">
+    <Lat>+01.101944</Lat>
+    <Long>+127.703333</Long>
+  </Radar>
+  <Radar Name="Sultan babullah" Type="SMR" Elevation="85" MaxRange="200">
+    <Lat>+00.831111</Lat>
+    <Long>+127.380278</Long>
+  </Radar>
+  <Radar Name="Gamar malamo" Type="SMR" Elevation="138" MaxRange="200">
+    <Lat>+01.836667</Lat>
+    <Long>+127.786944</Long>
+  </Radar>
+  <Radar Name="Weda bay" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>+00.468056</Lat>
+    <Long>+127.946111</Long>
+  </Radar>
+  <Radar Name="Gebe i" Type="SMR" Elevation="125" MaxRange="200">
+    <Lat>-00.080278</Lat>
+    <Long>+129.456944</Long>
+  </Radar>
+  <Radar Name="Kuabang" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>+01.186944</Lat>
+    <Long>+127.895000</Long>
+  </Radar>
+  <Radar Name="Oesman sadik" Type="SMR" Elevation="69" MaxRange="200">
+    <Lat>-00.637222</Lat>
+    <Long>+127.501944</Long>
+  </Radar>
+  <Radar Name="Buli" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>+00.919444</Lat>
+    <Long>+128.382500</Long>
+  </Radar>
+  <Radar Name="Falabisahaya" Type="SMR" Elevation="3" MaxRange="200">
+    <Lat>-01.782222</Lat>
+    <Long>+125.482222</Long>
+  </Radar>
+  <Radar Name="Emalamo" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>-02.097778</Lat>
+    <Long>+125.963889</Long>
+  </Radar>
+  <Radar Name="Pitu" Type="SMR" Elevation="75" MaxRange="200">
+    <Lat>+02.050000</Lat>
+    <Long>+128.316667</Long>
+  </Radar>
+  <Radar Name="Toraja" Type="SMR" Elevation="2966" MaxRange="200">
+    <Lat>-03.185556</Lat>
+    <Long>+119.917222</Long>
+  </Radar>
+  <Radar Name="Tentena" Type="SMR" Elevation="4262" MaxRange="200">
+    <Lat>-02.250000</Lat>
+    <Long>+120.633333</Long>
+  </Radar>
+  <Radar Name="Bua" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-03.084444</Lat>
+    <Long>+120.245000</Long>
+  </Radar>
+  <Radar Name="Mutiara sis al jufri" Type="SMR" Elevation="272" MaxRange="200">
+    <Lat>-00.916667</Lat>
+    <Long>+119.910278</Long>
+  </Radar>
+  <Radar Name="Tampa padang" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-02.592778</Lat>
+    <Long>+119.015833</Long>
+  </Radar>
+  <Radar Name="Rampi" Type="SMR" Elevation="3199" MaxRange="200">
+    <Lat>-02.123889</Lat>
+    <Long>+120.293889</Long>
+  </Radar>
+  <Radar Name="Sultan bantilan" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>+01.123056</Lat>
+    <Long>+120.793056</Long>
+  </Radar>
+  <Radar Name="Andi jemma" Type="SMR" Elevation="131" MaxRange="200">
+    <Lat>-02.554167</Lat>
+    <Long>+120.324444</Long>
+  </Radar>
+  <Radar Name="Seko" Type="SMR" Elevation="3576" MaxRange="200">
+    <Lat>-02.271944</Lat>
+    <Long>+119.895000</Long>
+  </Radar>
+  <Radar Name="Morowali" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-02.202222</Lat>
+    <Long>+121.661667</Long>
+  </Radar>
+  <Radar Name="Kasiguncu" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>-01.416944</Lat>
+    <Long>+120.659167</Long>
+  </Radar>
+  <Radar Name="Sumarorong" Type="SMR" Elevation="3022" MaxRange="200">
+    <Lat>-03.147778</Lat>
+    <Long>+119.303333</Long>
+  </Radar>
+  <Radar Name="Tanjung api" Type="SMR" Elevation="102" MaxRange="200">
+    <Lat>-00.863889</Lat>
+    <Long>+121.625000</Long>
+  </Radar>
+  <Radar Name="Syukuran aminuddin a" Type="SMR" Elevation="56" MaxRange="200">
+    <Lat>-01.040556</Lat>
+    <Long>+122.772500</Long>
+  </Radar>
+  <Radar Name="Pogogul" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>+01.105278</Lat>
+    <Long>+121.415556</Long>
+  </Radar>
+  <Radar Name="Kuala kurun" Type="SMR" Elevation="131" MaxRange="200">
+    <Lat>-01.126389</Lat>
+    <Long>+113.874722</Long>
+  </Radar>
+  <Radar Name="Haji muhammad sidik" Type="SMR" Elevation="131" MaxRange="200">
+    <Lat>-01.021944</Lat>
+    <Long>+114.926389</Long>
+  </Radar>
+  <Radar Name="Kuala pembuang" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-03.378056</Lat>
+    <Long>+112.541667</Long>
+  </Radar>
+  <Radar Name="Tjilik riwut" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>-02.226667</Lat>
+    <Long>+113.944444</Long>
+  </Radar>
+  <Radar Name="Iskandar" Type="SMR" Elevation="75" MaxRange="200">
+    <Lat>-02.704167</Lat>
+    <Long>+111.670556</Long>
+  </Radar>
+  <Radar Name="Sanggu" Type="SMR" Elevation="89" MaxRange="200">
+    <Lat>-01.669167</Lat>
+    <Long>+114.897778</Long>
+  </Radar>
+  <Radar Name="Purukcahu" Type="SMR" Elevation="456" MaxRange="200">
+    <Lat>-00.689167</Lat>
+    <Long>+114.445000</Long>
+  </Radar>
+  <Radar Name="H. asan" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-02.501389</Lat>
+    <Long>+112.975556</Long>
+  </Radar>
+  <Radar Name="Katingan" Type="SMR" Elevation="148" MaxRange="200">
+    <Lat>-01.467500</Lat>
+    <Long>+113.083056</Long>
+  </Radar>
+  <Radar Name="Adisutjipto" Type="SMR" Elevation="404" MaxRange="200">
+    <Lat>-07.786667</Lat>
+    <Long>+110.431944</Long>
+  </Radar>
+  <Radar Name="Yogyakarta intl" Type="SMR" Elevation="30" MaxRange="200">
+    <Lat>-07.904167</Lat>
+    <Long>+110.057500</Long>
+  </Radar>
+  <Radar Name="Tunggul wulung" Type="SMR" Elevation="82" MaxRange="200">
+    <Lat>-07.644444</Lat>
+    <Long>+109.034722</Long>
+  </Radar>
+  <Radar Name="Jenderal besar soedi" Type="SMR" Elevation="171" MaxRange="200">
+    <Lat>-07.462500</Lat>
+    <Long>+109.421667</Long>
+  </Radar>
+  <Radar Name="Adi soemarmo" Type="SMR" Elevation="417" MaxRange="200">
+    <Lat>-07.513611</Lat>
+    <Long>+110.750556</Long>
+  </Radar>
+  <Radar Name="Jenderal ahmad yani " Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>-06.976389</Lat>
+    <Long>+110.377222</Long>
+  </Radar>
+  <Radar Name="Dewadaru" Type="SMR" Elevation="52" MaxRange="200">
+    <Lat>-05.801111</Lat>
+    <Long>+110.477778</Long>
+  </Radar>
+  <Radar Name="Dabra" Type="SMR" Elevation="200" MaxRange="200">
+    <Lat>-03.270375</Lat>
+    <Long>+138.612192</Long>
+  </Radar>
+  <Radar Name="Batom" Type="SMR" Elevation="394" MaxRange="200">
+    <Lat>-04.444167</Lat>
+    <Long>+140.881667</Long>
+  </Radar>
+  <Radar Name="Mararena" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-01.874722</Lat>
+    <Long>+138.754444</Long>
+  </Radar>
+  <Radar Name="Sentani" Type="SMR" Elevation="302" MaxRange="200">
+    <Lat>-02.571944</Lat>
+    <Long>+140.511667</Long>
+  </Radar>
+  <Radar Name="Kiwirok" Type="SMR" Elevation="5351" MaxRange="200">
+    <Lat>-04.713333</Lat>
+    <Long>+140.739444</Long>
+  </Radar>
+  <Radar Name="Molof" Type="SMR" Elevation="689" MaxRange="200">
+    <Lat>-03.413333</Lat>
+    <Long>+140.552778</Long>
+  </Radar>
+  <Radar Name="Oksibil" Type="SMR" Elevation="4281" MaxRange="200">
+    <Lat>-04.907222</Lat>
+    <Long>+140.630278</Long>
+  </Radar>
+  <Radar Name="Waris" Type="SMR" Elevation="1775" MaxRange="200">
+    <Lat>-03.233333</Lat>
+    <Long>+140.966667</Long>
+  </Radar>
+  <Radar Name="Senggeh" Type="SMR" Elevation="876" MaxRange="200">
+    <Lat>-03.442778</Lat>
+    <Long>+140.778333</Long>
+  </Radar>
+  <Radar Name="Ubrub" Type="SMR" Elevation="1030" MaxRange="200">
+    <Lat>-03.675278</Lat>
+    <Long>+140.881389</Long>
+  </Radar>
+  <Radar Name="Mindiptanah" Type="SMR" Elevation="121" MaxRange="200">
+    <Lat>-05.879167</Lat>
+    <Long>+140.708611</Long>
+  </Radar>
+  <Radar Name="Bade" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-07.175278</Lat>
+    <Long>+139.584167</Long>
+  </Radar>
+  <Radar Name="Ewer" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-05.496111</Lat>
+    <Long>+138.080278</Long>
+  </Radar>
+  <Radar Name="Kimaam" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-07.979167</Lat>
+    <Long>+138.852500</Long>
+  </Radar>
+  <Radar Name="Mopah" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-08.521111</Lat>
+    <Long>+140.416944</Long>
+  </Radar>
+  <Radar Name="Bomakia" Type="SMR" Elevation="30" MaxRange="200">
+    <Lat>-05.805000</Lat>
+    <Long>+139.867778</Long>
+  </Radar>
+  <Radar Name="Asmat" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>-06.185278</Lat>
+    <Long>+138.640833</Long>
+  </Radar>
+  <Radar Name="Okaba" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-08.095000</Lat>
+    <Long>+139.722500</Long>
+  </Radar>
+  <Radar Name="Kepi" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-06.542222</Lat>
+    <Long>+139.331667</Long>
+  </Radar>
+  <Radar Name="Senggo" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>-05.690556</Lat>
+    <Long>+139.349722</Long>
+  </Radar>
+  <Radar Name="Tanah merah" Type="SMR" Elevation="72" MaxRange="200">
+    <Lat>-06.096111</Lat>
+    <Long>+140.300000</Long>
+  </Radar>
+  <Radar Name="Koroway batu" Type="SMR" Elevation="276" MaxRange="200">
+    <Lat>-05.213889</Lat>
+    <Long>+140.023333</Long>
+  </Radar>
+  <Radar Name="Sangkimah" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>+00.383611</Lat>
+    <Long>+117.542500</Long>
+  </Radar>
+  <Radar Name="Tanjung bara" Type="SMR" Elevation="43" MaxRange="200">
+    <Lat>+00.561389</Lat>
+    <Long>+117.645000</Long>
+  </Radar>
+  <Radar Name="Lng badak" Type="SMR" Elevation="59" MaxRange="200">
+    <Lat>+00.118056</Lat>
+    <Long>+117.473611</Long>
+  </Radar>
+  <Radar Name="Melalan melak" Type="SMR" Elevation="318" MaxRange="200">
+    <Lat>-00.205833</Lat>
+    <Long>+115.760556</Long>
+  </Radar>
+  <Radar Name="Datah dawai" Type="SMR" Elevation="505" MaxRange="200">
+    <Lat>+00.807778</Lat>
+    <Long>+114.529444</Long>
+  </Radar>
+  <Radar Name="Sultan aji muhammad " Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>-01.267500</Lat>
+    <Long>+116.893889</Long>
+  </Radar>
+  <Radar Name="Long nawang" Type="SMR" Elevation="1900" MaxRange="200">
+    <Lat>+01.797778</Lat>
+    <Long>+114.903889</Long>
+  </Radar>
+  <Radar Name="Pujungan" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>-00.305556</Lat>
+    <Long>+117.415278</Long>
+  </Radar>
+  <Radar Name="Aji pangeran tumengg" Type="SMR" Elevation="56" MaxRange="200">
+    <Lat>-00.375556</Lat>
+    <Long>+117.251389</Long>
+  </Radar>
+  <Radar Name="Tanjung santan" Type="SMR" Elevation="79" MaxRange="200">
+    <Lat>-00.083333</Lat>
+    <Long>+117.433333</Long>
+  </Radar>
+  <Radar Name="Muara wahau" Type="SMR" Elevation="190" MaxRange="200">
+    <Lat>+01.121667</Lat>
+    <Long>+116.851667</Long>
+  </Radar>
+  <Radar Name="Djalaluddin" Type="SMR" Elevation="105" MaxRange="200">
+    <Lat>+00.638056</Lat>
+    <Long>+122.852222</Long>
+  </Radar>
+  <Radar Name="Naha" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>+03.685556</Lat>
+    <Long>+125.529167</Long>
+  </Radar>
+  <Radar Name="Sam ratulangi" Type="SMR" Elevation="266" MaxRange="200">
+    <Lat>+01.545556</Lat>
+    <Long>+124.925000</Long>
+  </Radar>
+  <Radar Name="Melonguane" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>+04.006111</Lat>
+    <Long>+126.674722</Long>
+  </Radar>
+  <Radar Name="Sitaro" Type="SMR" Elevation="226" MaxRange="200">
+    <Lat>+02.653056</Lat>
+    <Long>+125.424722</Long>
+  </Radar>
+  <Radar Name="Indonesia morowali i" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>-02.801389</Lat>
+    <Long>+122.141111</Long>
+  </Radar>
+  <Radar Name="Miangas" Type="SMR" Elevation="0" MaxRange="200">
+    <Lat>+05.556111</Lat>
+    <Long>+126.576667</Long>
+  </Radar>
+  <Radar Name="Bersujud" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-03.413333</Lat>
+    <Long>+116.000833</Long>
+  </Radar>
+  <Radar Name="Sebuku" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-03.626667</Lat>
+    <Long>+116.368611</Long>
+  </Radar>
+  <Radar Name="Kota baru" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>-03.991667</Lat>
+    <Long>+116.104167</Long>
+  </Radar>
+  <Radar Name="Gusti sjamsir alam" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-03.295000</Lat>
+    <Long>+116.165833</Long>
+  </Radar>
+  <Radar Name="Warukin" Type="SMR" Elevation="180" MaxRange="200">
+    <Lat>-02.212778</Lat>
+    <Long>+115.442500</Long>
+  </Radar>
+  <Radar Name="Syamsudin noor" Type="SMR" Elevation="52" MaxRange="200">
+    <Lat>-03.439722</Lat>
+    <Long>+114.752778</Long>
+  </Radar>
+  <Radar Name="Amahai" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-03.346111</Lat>
+    <Long>+128.927222</Long>
+  </Radar>
+  <Radar Name="Bandaneira" Type="SMR" Elevation="69" MaxRange="200">
+    <Lat>-04.521667</Lat>
+    <Long>+129.904722</Long>
+  </Radar>
+  <Radar Name="Dobo" Type="SMR" Elevation="46" MaxRange="200">
+    <Lat>-05.774167</Lat>
+    <Long>+134.210000</Long>
+  </Radar>
+  <Radar Name="Karel sadsuitubun" Type="SMR" Elevation="89" MaxRange="200">
+    <Lat>-05.757500</Lat>
+    <Long>+132.761389</Long>
+  </Radar>
+  <Radar Name="Namrole" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-03.852778</Lat>
+    <Long>+126.702500</Long>
+  </Radar>
+  <Radar Name="Dumatubun" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>-05.661667</Lat>
+    <Long>+132.730000</Long>
+  </Radar>
+  <Radar Name="Jos orno imsula" Type="SMR" Elevation="43" MaxRange="200">
+    <Lat>-08.139167</Lat>
+    <Long>+127.903333</Long>
+  </Radar>
+  <Radar Name="Namniwel" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-03.143611</Lat>
+    <Long>+126.976389</Long>
+  </Radar>
+  <Radar Name="Larat" Type="SMR" Elevation="69" MaxRange="200">
+    <Lat>-07.128056</Lat>
+    <Long>+131.766944</Long>
+  </Radar>
+  <Radar Name="Pattimura" Type="SMR" Elevation="62" MaxRange="200">
+    <Lat>-03.707500</Lat>
+    <Long>+128.089444</Long>
+  </Radar>
+  <Radar Name="Namlea" Type="SMR" Elevation="69" MaxRange="200">
+    <Lat>-03.238056</Lat>
+    <Long>+127.099167</Long>
+  </Radar>
+  <Radar Name="Mathilda batlayeri" Type="SMR" Elevation="440" MaxRange="200">
+    <Lat>-07.848056</Lat>
+    <Long>+131.334722</Long>
+  </Radar>
+  <Radar Name="Kufar" Type="SMR" Elevation="72" MaxRange="200">
+    <Lat>-03.463333</Lat>
+    <Long>+130.787778</Long>
+  </Radar>
+  <Radar Name="Wahai" Type="SMR" Elevation="558" MaxRange="200">
+    <Lat>-02.811111</Lat>
+    <Long>+129.485000</Long>
+  </Radar>
+  <Radar Name="Nunukan" Type="SMR" Elevation="52" MaxRange="200">
+    <Lat>+04.133333</Lat>
+    <Long>+117.666667</Long>
+  </Radar>
+  <Radar Name="Bunyu" Type="SMR" Elevation="102" MaxRange="200">
+    <Lat>+03.466667</Lat>
+    <Long>+117.866667</Long>
+  </Radar>
+  <Radar Name="Maratua" Type="SMR" Elevation="56" MaxRange="200">
+    <Lat>+02.203333</Lat>
+    <Long>+118.592500</Long>
+  </Radar>
+  <Radar Name="Tanjung harapan" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>+02.837500</Lat>
+    <Long>+117.373333</Long>
+  </Radar>
+  <Radar Name="Binuang" Type="SMR" Elevation="2546" MaxRange="200">
+    <Lat>+03.772667</Lat>
+    <Long>+115.856167</Long>
+  </Radar>
+  <Radar Name="Yuvai semaring" Type="SMR" Elevation="3100" MaxRange="200">
+    <Lat>+03.901111</Lat>
+    <Long>+115.692500</Long>
+  </Radar>
+  <Radar Name="Mangkajang" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>+02.005000</Lat>
+    <Long>+117.741944</Long>
+  </Radar>
+  <Radar Name="Long apung" Type="SMR" Elevation="2113" MaxRange="200">
+    <Lat>+01.705556</Lat>
+    <Long>+114.971389</Long>
+  </Radar>
+  <Radar Name="Kol. robert atty bes" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>+03.573889</Lat>
+    <Long>+116.616389</Long>
+  </Radar>
+  <Radar Name="Juwata" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>+03.326667</Lat>
+    <Long>+117.569444</Long>
+  </Radar>
+  <Radar Name="Kalimarau" Type="SMR" Elevation="43" MaxRange="200">
+    <Lat>+02.153611</Lat>
+    <Long>+117.431111</Long>
+  </Radar>
+  <Radar Name="Long layu" Type="SMR" Elevation="2904" MaxRange="200">
+    <Lat>+03.610833</Lat>
+    <Long>+115.699167</Long>
+  </Radar>
+  <Radar Name="Abdulrachman saleh" Type="SMR" Elevation="1716" MaxRange="200">
+    <Lat>-07.929444</Lat>
+    <Long>+112.711944</Long>
+  </Radar>
+  <Radar Name="Ngloram" Type="SMR" Elevation="131" MaxRange="200">
+    <Lat>-07.194167</Lat>
+    <Long>+111.547222</Long>
+  </Radar>
+  <Radar Name="Dhoho" Type="SMR" Elevation="315" MaxRange="200">
+    <Lat>-07.755000</Lat>
+    <Long>+111.947778</Long>
+  </Radar>
+  <Radar Name="Noto hadinegoro" Type="SMR" Elevation="262" MaxRange="200">
+    <Lat>-08.243333</Lat>
+    <Long>+113.696111</Long>
+  </Radar>
+  <Radar Name="Iswahyudi" Type="SMR" Elevation="354" MaxRange="200">
+    <Lat>-07.610000</Lat>
+    <Long>+111.433333</Long>
+  </Radar>
+  <Radar Name="Pagerungan" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-06.956667</Lat>
+    <Long>+115.932500</Long>
+  </Radar>
+  <Radar Name="Juanda" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-07.380833</Lat>
+    <Long>+112.786389</Long>
+  </Radar>
+  <Radar Name="Trunojoyo" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>-07.023611</Lat>
+    <Long>+113.890833</Long>
+  </Radar>
+  <Radar Name="Harun thohir" Type="SMR" Elevation="62" MaxRange="200">
+    <Lat>-05.723611</Lat>
+    <Long>+112.676667</Long>
+  </Radar>
+  <Radar Name="Ayawasi" Type="SMR" Elevation="1529" MaxRange="200">
+    <Lat>-01.159722</Lat>
+    <Long>+132.465278</Long>
+  </Radar>
+  <Radar Name="Torea" Type="SMR" Elevation="433" MaxRange="200">
+    <Lat>-02.919444</Lat>
+    <Long>+132.264167</Long>
+  </Radar>
+  <Radar Name="Inanwatan" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-02.126667</Lat>
+    <Long>+132.163056</Long>
+  </Radar>
+  <Radar Name="Utarom" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-03.644722</Lat>
+    <Long>+133.695556</Long>
+  </Radar>
+  <Radar Name="Marinda" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-00.431944</Lat>
+    <Long>+130.771944</Long>
+  </Radar>
+  <Radar Name="Babo" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>-02.535278</Lat>
+    <Long>+133.438889</Long>
+  </Radar>
+  <Radar Name="Domine eduard osok" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-00.891667</Lat>
+    <Long>+131.286944</Long>
+  </Radar>
+  <Radar Name="Teminabuan" Type="SMR" Elevation="144" MaxRange="200">
+    <Lat>-01.445556</Lat>
+    <Long>+132.020556</Long>
+  </Radar>
+  <Radar Name="Ayamaru" Type="SMR" Elevation="1388" MaxRange="200">
+    <Lat>-01.318333</Lat>
+    <Long>+132.282500</Long>
+  </Radar>
+  <Radar Name="A.a bere tallo" Type="SMR" Elevation="1020" MaxRange="200">
+    <Lat>-09.075556</Lat>
+    <Long>+124.903056</Long>
+  </Radar>
+  <Radar Name="Soa" Type="SMR" Elevation="1414" MaxRange="200">
+    <Lat>-08.708611</Lat>
+    <Long>+121.057222</Long>
+  </Radar>
+  <Radar Name="Fransiskus xaverius " Type="SMR" Elevation="85" MaxRange="200">
+    <Lat>-08.637500</Lat>
+    <Long>+122.236944</Long>
+  </Radar>
+  <Radar Name="Haji hasan aroeboesm" Type="SMR" Elevation="26" MaxRange="200">
+    <Lat>-08.848056</Lat>
+    <Long>+121.663333</Long>
+  </Radar>
+  <Radar Name="Frans sales lega" Type="SMR" Elevation="3743" MaxRange="200">
+    <Lat>-08.598611</Lat>
+    <Long>+120.479722</Long>
+  </Radar>
+  <Radar Name="Lede kalumbang" Type="SMR" Elevation="184" MaxRange="200">
+    <Lat>-09.412222</Lat>
+    <Long>+119.246944</Long>
+  </Radar>
+  <Radar Name="Gewayantana" Type="SMR" Elevation="26" MaxRange="200">
+    <Lat>-08.275000</Lat>
+    <Long>+123.000000</Long>
+  </Radar>
+  <Radar Name="Mali" Type="SMR" Elevation="33" MaxRange="200">
+    <Lat>-08.135278</Lat>
+    <Long>+124.594444</Long>
+  </Radar>
+  <Radar Name="Komodo" Type="SMR" Elevation="223" MaxRange="200">
+    <Lat>-08.486389</Lat>
+    <Long>+119.887500</Long>
+  </Radar>
+  <Radar Name="Pantar" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-08.245833</Lat>
+    <Long>+124.218611</Long>
+  </Radar>
+  <Radar Name="John becker" Type="SMR" Elevation="75" MaxRange="200">
+    <Lat>-08.018056</Lat>
+    <Long>+127.199722</Long>
+  </Radar>
+  <Radar Name="David constantijn sa" Type="SMR" Elevation="456" MaxRange="200">
+    <Lat>-10.766944</Lat>
+    <Long>+123.074167</Long>
+  </Radar>
+  <Radar Name="Tardamu" Type="SMR" Elevation="52" MaxRange="200">
+    <Lat>-10.493889</Lat>
+    <Long>+121.846111</Long>
+  </Radar>
+  <Radar Name="El tari" Type="SMR" Elevation="387" MaxRange="200">
+    <Lat>-10.177778</Lat>
+    <Long>+123.663889</Long>
+  </Radar>
+  <Radar Name="Umbu mehang kunda" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>-09.668056</Lat>
+    <Long>+120.298889</Long>
+  </Radar>
+  <Radar Name="Wunopito" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-08.366389</Lat>
+    <Long>+123.438056</Long>
+  </Radar>
+  <Radar Name="Anggi" Type="SMR" Elevation="6476" MaxRange="200">
+    <Lat>-01.386111</Lat>
+    <Long>+133.874167</Long>
+  </Radar>
+  <Radar Name="Bintuni" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-02.100833</Lat>
+    <Long>+133.513611</Long>
+  </Radar>
+  <Radar Name="Werur" Type="SMR" Elevation="26" MaxRange="200">
+    <Lat>-00.422500</Lat>
+    <Long>+132.186944</Long>
+  </Radar>
+  <Radar Name="Kebar" Type="SMR" Elevation="1883" MaxRange="200">
+    <Lat>-00.809722</Lat>
+    <Long>+133.055278</Long>
+  </Radar>
+  <Radar Name="Merdey" Type="SMR" Elevation="381" MaxRange="200">
+    <Lat>-01.591389</Lat>
+    <Long>+133.295833</Long>
+  </Radar>
+  <Radar Name="Abresso" Type="SMR" Elevation="75" MaxRange="200">
+    <Lat>-01.500000</Lat>
+    <Long>+134.183333</Long>
+  </Radar>
+  <Radar Name="Rendani" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-00.893889</Lat>
+    <Long>+134.050278</Long>
+  </Radar>
+  <Radar Name="Wasior" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-02.722222</Lat>
+    <Long>+134.506389</Long>
+  </Radar>
+  <Radar Name="Mulia" Type="SMR" Elevation="5879" MaxRange="200">
+    <Lat>-03.701111</Lat>
+    <Long>+137.960278</Long>
+  </Radar>
+  <Radar Name="Jayawijaya" Type="SMR" Elevation="4478" MaxRange="200">
+    <Lat>-03.684781</Lat>
+    <Long>+138.677319</Long>
+  </Radar>
+  <Radar Name="Ilu" Type="SMR" Elevation="6394" MaxRange="200">
+    <Lat>-03.708333</Lat>
+    <Long>+138.200278</Long>
+  </Radar>
+  <Radar Name="Nop goliat dekai" Type="SMR" Elevation="177" MaxRange="200">
+    <Lat>-04.853611</Lat>
+    <Long>+139.486667</Long>
+  </Radar>
+  <Radar Name="Elelim" Type="SMR" Elevation="1499" MaxRange="200">
+    <Lat>-03.785278</Lat>
+    <Long>+139.384167</Long>
+  </Radar>
+  <Radar Name="Karubaga" Type="SMR" Elevation="5108" MaxRange="200">
+    <Lat>-03.686569</Lat>
+    <Long>+138.479364</Long>
+  </Radar>
+  <Radar Name="Kelila" Type="SMR" Elevation="4298" MaxRange="200">
+    <Lat>-03.728056</Lat>
+    <Long>+138.710833</Long>
+  </Radar>
+  <Radar Name="Manggelum" Type="SMR" Elevation="217" MaxRange="200">
+    <Lat>-05.423889</Lat>
+    <Long>+140.433889</Long>
+  </Radar>
+  <Radar Name="Tiom" Type="SMR" Elevation="6919" MaxRange="200">
+    <Lat>-03.924889</Lat>
+    <Long>+138.454083</Long>
+  </Radar>
+  <Radar Name="Wamena" Type="SMR" Elevation="5423" MaxRange="200">
+    <Lat>-04.097500</Lat>
+    <Long>+138.951389</Long>
+  </Radar>
+  <Radar Name="Pomala" Type="SMR" Elevation="75" MaxRange="200">
+    <Lat>-04.181389</Lat>
+    <Long>+121.614722</Long>
+  </Radar>
+  <Radar Name="Betoambari" Type="SMR" Elevation="98" MaxRange="200">
+    <Lat>-05.486944</Lat>
+    <Long>+122.569444</Long>
+  </Radar>
+  <Radar Name="Maranggo" Type="SMR" Elevation="69" MaxRange="200">
+    <Lat>-05.767222</Lat>
+    <Long>+123.918889</Long>
+  </Radar>
+  <Radar Name="Matahora" Type="SMR" Elevation="56" MaxRange="200">
+    <Lat>-05.290556</Lat>
+    <Long>+123.636111</Long>
+  </Radar>
+  <Radar Name="H. aroeppala" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-06.176667</Lat>
+    <Long>+120.437222</Long>
+  </Radar>
+  <Radar Name="Arung palakka" Type="SMR" Elevation="79" MaxRange="200">
+    <Lat>-04.458889</Lat>
+    <Long>+120.306944</Long>
+  </Radar>
+  <Radar Name="Sangia nibandera" Type="SMR" Elevation="49" MaxRange="200">
+    <Lat>-04.345000</Lat>
+    <Long>+121.522222</Long>
+  </Radar>
+  <Radar Name="Sugimanuru" Type="SMR" Elevation="131" MaxRange="200">
+    <Lat>-04.761944</Lat>
+    <Long>+122.570000</Long>
+  </Radar>
+  <Radar Name="Soroako" Type="SMR" Elevation="1391" MaxRange="200">
+    <Lat>-02.530278</Lat>
+    <Long>+121.355833</Long>
+  </Radar>
+  <Radar Name="Halu oleo" Type="SMR" Elevation="171" MaxRange="200">
+    <Lat>-04.084167</Lat>
+    <Long>+122.413056</Long>
+  </Radar>
+  <Radar Name="Alama" Type="SMR" Elevation="2552" MaxRange="200">
+    <Lat>-04.333333</Lat>
+    <Long>+137.833333</Long>
+  </Radar>
+  <Radar Name="Bilorai" Type="SMR" Elevation="7336" MaxRange="200">
+    <Lat>-03.739722</Lat>
+    <Long>+137.030833</Long>
+  </Radar>
+  <Radar Name="Enarotali" Type="SMR" Elevation="5794" MaxRange="200">
+    <Lat>-03.926111</Lat>
+    <Long>+136.380278</Long>
+  </Radar>
+  <Radar Name="Akimuga" Type="SMR" Elevation="161" MaxRange="200">
+    <Lat>-04.603056</Lat>
+    <Long>+137.659167</Long>
+  </Radar>
+  <Radar Name="Bilai" Type="SMR" Elevation="5597" MaxRange="200">
+    <Lat>-03.733333</Lat>
+    <Long>+136.833333</Long>
+  </Radar>
+  <Radar Name="Jila" Type="SMR" Elevation="4337" MaxRange="200">
+    <Lat>-04.246944</Lat>
+    <Long>+137.595278</Long>
+  </Radar>
+  <Radar Name="Kokonao" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-04.711389</Lat>
+    <Long>+136.436111</Long>
+  </Radar>
+  <Radar Name="Ilaga" Type="SMR" Elevation="7982" MaxRange="200">
+    <Lat>-03.977222</Lat>
+    <Long>+137.620278</Long>
+  </Radar>
+  <Radar Name="Kebo" Type="SMR" Elevation="5827" MaxRange="200">
+    <Lat>-03.823889</Lat>
+    <Long>+136.386111</Long>
+  </Radar>
+  <Radar Name="Jita" Type="SMR" Elevation="46" MaxRange="200">
+    <Lat>-04.857500</Lat>
+    <Long>+137.701111</Long>
+  </Radar>
+  <Radar Name="Obano" Type="SMR" Elevation="5856" MaxRange="200">
+    <Lat>-03.916667</Lat>
+    <Long>+136.216667</Long>
+  </Radar>
+  <Radar Name="Waren" Type="SMR" Elevation="39" MaxRange="200">
+    <Lat>-02.212500</Lat>
+    <Long>+136.440278</Long>
+  </Radar>
+  <Radar Name="Mozes kilangin" Type="SMR" Elevation="105" MaxRange="200">
+    <Lat>-04.531111</Lat>
+    <Long>+136.883333</Long>
+  </Radar>
+  <Radar Name="Sultan syarif kasim " Type="SMR" Elevation="131" MaxRange="200">
+    <Lat>+00.462222</Lat>
+    <Long>+101.445278</Long>
+  </Radar>
+  <Radar Name="Pinang kampai" Type="SMR" Elevation="52" MaxRange="200">
+    <Lat>+01.612222</Lat>
+    <Long>+101.433333</Long>
+  </Radar>
+  <Radar Name="Pasir pangaraian" Type="SMR" Elevation="210" MaxRange="200">
+    <Lat>+00.846667</Lat>
+    <Long>+100.370278</Long>
+  </Radar>
+  <Radar Name="Pulai" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>+00.216111</Lat>
+    <Long>+103.164722</Long>
+  </Radar>
+  <Radar Name="Japura" Type="SMR" Elevation="72" MaxRange="200">
+    <Lat>-00.350278</Lat>
+    <Long>+102.334444</Long>
+  </Radar>
+  <Radar Name="Sultan syarif haroen" Type="SMR" Elevation="62" MaxRange="200">
+    <Lat>+00.504722</Lat>
+    <Long>+101.922778</Long>
+  </Radar>
+  <Radar Name="Sei pakning" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>+01.369722</Lat>
+    <Long>+102.140000</Long>
+  </Radar>
+  <Radar Name="Kertajati" Type="SMR" Elevation="128" MaxRange="200">
+    <Lat>-06.648333</Lat>
+    <Long>+108.154167</Long>
+  </Radar>
+  <Radar Name="Husein sastranegara" Type="SMR" Elevation="2428" MaxRange="200">
+    <Lat>-06.901944</Lat>
+    <Long>+107.576111</Long>
+  </Radar>
+  <Radar Name="Cakrabhuwana" Type="SMR" Elevation="85" MaxRange="200">
+    <Lat>-06.756389</Lat>
+    <Long>+108.538333</Long>
+  </Radar>
+  <Radar Name="Sulaiman" Type="SMR" Elevation="2165" MaxRange="200">
+    <Lat>-06.982500</Lat>
+    <Long>+107.572500</Long>
+  </Radar>
+  <Radar Name="Wiriadinata" Type="SMR" Elevation="1099" MaxRange="200">
+    <Lat>-07.344722</Lat>
+    <Long>+108.243056</Long>
+  </Radar>
+  <Radar Name="Nusawiru" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-07.720556</Lat>
+    <Long>+108.489167</Long>
+  </Radar>
+  <Radar Name="Hang nadim" Type="SMR" Elevation="79" MaxRange="200">
+    <Lat>+01.118889</Lat>
+    <Long>+104.113889</Long>
+  </Radar>
+  <Radar Name="Letung" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>+02.962778</Lat>
+    <Long>+105.749722</Long>
+  </Radar>
+  <Radar Name="Matak" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>+03.346944</Lat>
+    <Long>+106.258333</Long>
+  </Radar>
+  <Radar Name="Raja haji fisabilill" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>+00.918889</Lat>
+    <Long>+104.526944</Long>
+  </Radar>
+  <Radar Name="Ranai" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>+03.906111</Lat>
+    <Long>+108.388056</Long>
+  </Radar>
+  <Radar Name="Dabo" Type="SMR" Elevation="108" MaxRange="200">
+    <Lat>-00.478611</Lat>
+    <Long>+104.578056</Long>
+  </Radar>
+  <Radar Name="Raja haji abdullah" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>+01.051389</Lat>
+    <Long>+103.390000</Long>
+  </Radar>
+  <Radar Name="Mentawai" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>-02.099167</Lat>
+    <Long>+099.705833</Long>
+  </Radar>
+  <Radar Name="Minangkabau intl" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-00.788333</Lat>
+    <Long>+100.286389</Long>
+  </Radar>
+  <Radar Name="Tabing" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-00.875556</Lat>
+    <Long>+100.350556</Long>
+  </Radar>
+  <Radar Name="Enggano" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>-05.301944</Lat>
+    <Long>+102.183056</Long>
+  </Radar>
+  <Radar Name="Fatmawati soekarno" Type="SMR" Elevation="79" MaxRange="200">
+    <Lat>-03.861111</Lat>
+    <Long>+102.339444</Long>
+  </Radar>
+  <Radar Name="Mukomuko" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>-02.541111</Lat>
+    <Long>+101.088611</Long>
+  </Radar>
+  <Radar Name="Wiladatika" Type="SMR" Elevation="197" MaxRange="200">
+    <Lat>-06.356944</Lat>
+    <Long>+106.896944</Long>
+  </Radar>
+  <Radar Name="Pulau panjang" Type="SMR" Elevation="3" MaxRange="200">
+    <Lat>-05.644444</Lat>
+    <Long>+106.562500</Long>
+  </Radar>
+  <Radar Name="Halim perdanakusuma" Type="SMR" Elevation="79" MaxRange="200">
+    <Lat>-06.267500</Lat>
+    <Long>+106.886389</Long>
+  </Radar>
+  <Radar Name="Salakanagara tanjung" Type="SMR" Elevation="13" MaxRange="200">
+    <Lat>-06.493056</Lat>
+    <Long>+105.665556</Long>
+  </Radar>
+  <Radar Name="Pondok cabe" Type="SMR" Elevation="200" MaxRange="200">
+    <Lat>-06.336111</Lat>
+    <Long>+106.764722</Long>
+  </Radar>
+  <Radar Name="Soekarno-hatta intl" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>-06.123611</Lat>
+    <Long>+106.661111</Long>
+  </Radar>
+  <Radar Name="Muara bungo" Type="SMR" Elevation="171" MaxRange="200">
+    <Lat>-01.543333</Lat>
+    <Long>+102.178611</Long>
+  </Radar>
+  <Radar Name="Depati parbo" Type="SMR" Elevation="2598" MaxRange="200">
+    <Lat>-02.091111</Lat>
+    <Long>+101.463056</Long>
+  </Radar>
+  <Radar Name="Sultan thaha" Type="SMR" Elevation="75" MaxRange="200">
+    <Lat>-01.635556</Lat>
+    <Long>+103.643056</Long>
+  </Radar>
+  <Radar Name="Depati amir" Type="SMR" Elevation="108" MaxRange="200">
+    <Lat>-02.162500</Lat>
+    <Long>+106.138056</Long>
+  </Radar>
+  <Radar Name="H.as. hanandjoeddin" Type="SMR" Elevation="203" MaxRange="200">
+    <Lat>-02.745278</Lat>
+    <Long>+107.753056</Long>
+  </Radar>
+  <Radar Name="Tamling" Type="SMR" Elevation="56" MaxRange="200">
+    <Lat>-05.918611</Lat>
+    <Long>+104.561667</Long>
+  </Radar>
+  <Radar Name="Gunung batin" Type="SMR" Elevation="112" MaxRange="200">
+    <Lat>-04.683333</Lat>
+    <Long>+105.266667</Long>
+  </Radar>
+  <Radar Name="Radin inten ii" Type="SMR" Elevation="282" MaxRange="200">
+    <Lat>-05.240556</Lat>
+    <Long>+105.175556</Long>
+  </Radar>
+  <Radar Name="Astra ksetra" Type="SMR" Elevation="108" MaxRange="200">
+    <Lat>-04.600000</Lat>
+    <Long>+105.250000</Long>
+  </Radar>
+  <Radar Name="Muhammad taufik kiem" Type="SMR" Elevation="95" MaxRange="200">
+    <Lat>-05.211667</Lat>
+    <Long>+103.939444</Long>
+  </Radar>
+  <Radar Name="Way jepara" Type="SMR" Elevation="118" MaxRange="200">
+    <Lat>-05.048889</Lat>
+    <Long>+105.652222</Long>
+  </Radar>
+  <Radar Name="Malikussaleh" Type="SMR" Elevation="95" MaxRange="200">
+    <Lat>+05.228889</Lat>
+    <Long>+096.951389</Long>
+  </Radar>
+  <Radar Name="Binaka" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>+01.165556</Lat>
+    <Long>+097.706111</Long>
+  </Radar>
+  <Radar Name="Aek godang" Type="SMR" Elevation="938" MaxRange="200">
+    <Lat>+01.398889</Lat>
+    <Long>+099.430556</Long>
+  </Radar>
+  <Radar Name="Gayo lues" Type="SMR" Elevation="3517" MaxRange="200">
+    <Lat>+03.943889</Lat>
+    <Long>+097.363611</Long>
+  </Radar>
+  <Radar Name="Syekh hamzah fanshur" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>+02.272500</Lat>
+    <Long>+097.960833</Long>
+  </Radar>
+  <Radar Name="Lasikin" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>+02.408889</Lat>
+    <Long>+096.326111</Long>
+  </Radar>
+  <Radar Name="Kualanamu intl" Type="SMR" Elevation="20" MaxRange="200">
+    <Lat>+03.642222</Lat>
+    <Long>+098.885278</Long>
+  </Radar>
+  <Radar Name="Raja sisingamangaraj" Type="SMR" Elevation="4646" MaxRange="200">
+    <Lat>+02.261111</Lat>
+    <Long>+098.994722</Long>
+  </Radar>
+  <Radar Name="Lasondre" Type="SMR" Elevation="3" MaxRange="200">
+    <Lat>-00.019722</Lat>
+    <Long>+098.300833</Long>
+  </Radar>
+  <Radar Name="Sibisa" Type="SMR" Elevation="4186" MaxRange="200">
+    <Lat>+02.601944</Lat>
+    <Long>+098.963889</Long>
+  </Radar>
+  <Radar Name="Dr. ferdinand lumban" Type="SMR" Elevation="39" MaxRange="200">
+    <Lat>+01.553611</Lat>
+    <Long>+098.893889</Long>
+  </Radar>
+  <Radar Name="Teuku cut ali" Type="SMR" Elevation="10" MaxRange="200">
+    <Lat>+03.170833</Lat>
+    <Long>+097.288611</Long>
+  </Radar>
+  <Radar Name="Alas lauser" Type="SMR" Elevation="410" MaxRange="200">
+    <Lat>+03.392222</Lat>
+    <Long>+097.865000</Long>
+  </Radar>
+  <Radar Name="Sirang" Type="SMR" Elevation="138" MaxRange="200">
+    <Lat>-00.050000</Lat>
+    <Long>+111.116667</Long>
+  </Radar>
+  <Radar Name="Tanjung maju" Type="SMR" Elevation="289" MaxRange="200">
+    <Lat>-00.666667</Lat>
+    <Long>+110.483333</Long>
+  </Radar>
+  <Radar Name="Tanjung beringin" Type="SMR" Elevation="154" MaxRange="200">
+    <Lat>-00.333333</Lat>
+    <Long>+112.166667</Long>
+  </Radar>
+  <Radar Name="Sungai tontang" Type="SMR" Elevation="371" MaxRange="200">
+    <Lat>-00.583333</Lat>
+    <Long>+110.466667</Long>
+  </Radar>
+  <Radar Name="Nanga pinoh" Type="SMR" Elevation="128" MaxRange="200">
+    <Lat>-00.348056</Lat>
+    <Long>+111.750278</Long>
+  </Radar>
+  <Radar Name="Rahadi oesman" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>-01.816111</Lat>
+    <Long>+109.961944</Long>
+  </Radar>
+  <Radar Name="Tanjung lokang" Type="SMR" Elevation="840" MaxRange="200">
+    <Lat>+00.783333</Lat>
+    <Long>+113.666667</Long>
+  </Radar>
+  <Radar Name="Supadio" Type="SMR" Elevation="7" MaxRange="200">
+    <Lat>-00.145556</Lat>
+    <Long>+109.403611</Long>
+  </Radar>
+  <Radar Name="Pangsuma" Type="SMR" Elevation="108" MaxRange="200">
+    <Lat>+00.838333</Lat>
+    <Long>+112.935556</Long>
+  </Radar>
+  <Radar Name="Tanjung rimba" Type="SMR" Elevation="207" MaxRange="200">
+    <Lat>-00.416667</Lat>
+    <Long>+110.466667</Long>
+  </Radar>
+  <Radar Name="Tebelian" Type="SMR" Elevation="112" MaxRange="200">
+    <Lat>-00.041667</Lat>
+    <Long>+111.456389</Long>
+  </Radar>
+  <Radar Name="Suti" Type="SMR" Elevation="594" MaxRange="200">
+    <Lat>+00.883333</Lat>
+    <Long>+109.833333</Long>
+  </Radar>
+  <Radar Name="Silampari" Type="SMR" Elevation="331" MaxRange="200">
+    <Lat>-03.284167</Lat>
+    <Long>+102.914167</Long>
+  </Radar>
+  <Radar Name="Banding angung" Type="SMR" Elevation="2224" MaxRange="200">
+    <Lat>-04.800000</Lat>
+    <Long>+103.950000</Long>
+  </Radar>
+  <Radar Name="Gatot soebroto" Type="SMR" Elevation="318" MaxRange="200">
+    <Lat>-04.393889</Lat>
+    <Long>+104.402778</Long>
+  </Radar>
+  <Radar Name="Sultan mahmud badaru" Type="SMR" Elevation="36" MaxRange="200">
+    <Lat>-02.900278</Lat>
+    <Long>+104.700000</Long>
+  </Radar>
+  <Radar Name="Atung bungsu" Type="SMR" Elevation="2047" MaxRange="200">
+    <Lat>-04.024722</Lat>
+    <Long>+103.378611</Long>
+  </Radar>
+  <Radar Name="Budiarto" Type="SMR" Elevation="138" MaxRange="200">
+    <Lat>-06.293333</Lat>
+    <Long>+106.568056</Long>
+  </Radar>
+  <Radar Name="Smart semelagi" Type="SMR" Elevation="23" MaxRange="200">
+    <Lat>+01.000556</Lat>
+    <Long>+109.046389</Long>
+  </Radar>
+  <Radar Name="Cut nyak dhien nagan" Type="SMR" Elevation="16" MaxRange="200">
+    <Lat>+04.048056</Lat>
+    <Long>+096.250000</Long>
+  </Radar>
+  <Radar Name="Rembele" Type="SMR" Elevation="4656" MaxRange="200">
+    <Lat>+04.723333</Lat>
+    <Long>+096.848056</Long>
+  </Radar>
+  <Radar Name="Lhok sukon" Type="SMR" Elevation="39" MaxRange="200">
+    <Lat>+05.073056</Lat>
+    <Long>+097.255278</Long>
+  </Radar>
+  <Radar Name="Maimun saleh" Type="SMR" Elevation="390" MaxRange="200">
+    <Lat>+05.876389</Lat>
+    <Long>+095.337500</Long>
+  </Radar>
+  <Radar Name="Sultan iskandar muda" Type="SMR" Elevation="66" MaxRange="200">
+    <Lat>+05.516944</Lat>
+    <Long>+095.420000</Long>
+  </Radar>
+</Radars>
